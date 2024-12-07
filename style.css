@@ -43,7 +43,7 @@ input, select, button {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #295B61;
     color: white;
     border: none;
     cursor: pointer;
@@ -51,7 +51,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #10875d;
 }
 
 table {
@@ -65,13 +65,13 @@ table {
 }
 
 thead {
-    background-color: #007bff;
+    background-color: #295B61;
     color: white;
 }
 
 th, td {
     padding: 10px;
-    text-align: left;
+    text-align: center;
     border: 1px solid #ddd;
 }
 
@@ -91,7 +91,7 @@ img {
 }
 
 .edit-btn {
-    background-color: #ffc107;
+    background-color: #1d9561;
     color: black;
     border: none;
     padding: 5px 10px;
@@ -101,11 +101,11 @@ img {
 }
 
 .edit-btn:hover {
-    background-color: #e0a800;
+    background-color: #057233;
 }
 
 .delete-btn {
-    background-color: #dc3545;
+    background-color: red;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -115,22 +115,18 @@ img {
 }
 
 .delete-btn:hover {
-    background-color: #c82333;
+    background-color: #cd6271;
 }
 
 .stok-available {
-    background-color: green;
-    font-weight: bold;
     text-align: center;
 }
 
 .stok-low {
 background-color: red;
-    font-weight: bold;
     text-align: center;
 }
 
 .stok-unavailable {
-    font-weight: bold;
     text-align: center;
 }
